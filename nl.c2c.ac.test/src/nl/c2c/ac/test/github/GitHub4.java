@@ -2,7 +2,7 @@ package nl.c2c.ac.test.github;
 
 
 /**
- * @author Ronald
+ * @author Ronald2
  *
  */
 public class GitHub4  {
