@@ -3,6 +3,7 @@ package nl.c2c.ac.test.github;
 
 /**
  * @author Ronald2
+ * added comment in testFeatureLocal
  *
  */
 public class GitHub4  {
