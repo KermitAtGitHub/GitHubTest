@@ -14,5 +14,8 @@ public class GitHub4  {
 		GitHub4.context = context;
 	}
 	
-
+	public static void setContext(String context, String extra) {
+		GitHub4.context = context + extra;
+	}
+	
 }
