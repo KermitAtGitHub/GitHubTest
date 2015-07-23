@@ -16,6 +16,9 @@ public class GitHub3  {
 		
 		//added extra
 		GitHub3.context +=  "extra";
+		
+		//added extra
+				GitHub3.context +=  "extra";
 	}
 	
 
