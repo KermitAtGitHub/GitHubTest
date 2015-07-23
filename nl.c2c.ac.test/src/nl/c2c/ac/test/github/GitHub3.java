@@ -13,6 +13,8 @@ public class GitHub3  {
 	public static void setContext(String context) {
 		GitHub3.context = context;
 		GitHub3.context = context + "extra";
+		//added extra extra
+		GitHub3.context = context + "extra";
 	}
 	
 
