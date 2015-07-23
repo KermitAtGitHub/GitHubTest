@@ -15,10 +15,10 @@ public class GitHub3  {
 		GitHub3.context = context + "extra";
 		
 		//added extra
-		GitHub3.context +=  "extra1";
+		GitHub3.context +=  "extra5";
 		
 		//added extra
-		GitHub3.context +=  "extra2"; 
+		GitHub3.context +=  "extra6"; 
 	}
 	
 
